@@ -1,9 +1,9 @@
-69ac7789e09244acb97a4e08c8f12843 *DESCRIPTION
-fd4074ffc4c4d1a483d417a615e00bd3 *NAMESPACE
-836fc51feb5fc42cd86b5e7f43a44a99 *NEWS.md
-3db3f39afbb1ac270ff42d5cf995b272 *R/mlr3verse_info.R
-ed28fa6845f1da0b0d0667550fe98d0c *R/zzz.R
-034f035338d01e5d6590faa319defdd8 *README.md
-1577a2a3bc6849ebf3d589bd00db7f36 *man/mlr3verse-package.Rd
+392fc91e7fc840bc4dd430d2d5b692db *DESCRIPTION
+9afce52ec4dcc9702b11693f4bb1c7d1 *NAMESPACE
+1ae0eba60893bb44e2f04423ee6d664b *NEWS.md
+c0dceab7fb1b261a9242016de93ef2fa *R/mlr3verse_info.R
+992daa62880e0b1e659f60eec946c137 *R/zzz.R
+471e131de7c8f5fb852eece02066c836 *README.md
+d9dec8b31733acf767b30922db77f92e *man/mlr3verse-package.Rd
 9003c75579f09946d45ad2ecdfe4ab81 *man/mlr3verse_info.Rd
 c807393c0f3f1b10f48705d8c1057cd9 *tests/mlr3verse.R
