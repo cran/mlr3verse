@@ -78,10 +78,74 @@ mlr3::benchmark_grid
 #' @export
 mlr3::benchmark
 
+#' @importFrom mlr3 mlr_reflections
+#' @export
+mlr3::mlr_reflections
+
 #' @importFrom mlr3 as_data_backend
 #' @export
 mlr3::as_data_backend
 
+#' @importFrom mlr3 as_learner
+#' @export
+mlr3::as_learner
+
+#' @importFrom mlr3 as_learners
+#' @export
+mlr3::as_learners
+
+#' @importFrom mlr3 as_task
+#' @export
+mlr3::as_task
+
+#' @importFrom mlr3 as_tasks
+#' @export
+mlr3::as_tasks
+
+#' @importFrom mlr3 as_task_classif
+#' @export
+mlr3::as_task_classif
+
+#' @importFrom mlr3 as_task_regr
+#' @export
+mlr3::as_task_regr
+
+#' @importFrom mlr3 as_resampling
+#' @export
+mlr3::as_resampling
+
+#' @importFrom mlr3 as_resamplings
+#' @export
+mlr3::as_resamplings
+
+#' @importFrom mlr3 as_measure
+#' @export
+mlr3::as_measure
+
+#' @importFrom mlr3 as_measures
+#' @export
+mlr3::as_measures
+
+#' @importFrom mlr3 as_prediction
+#' @export
+mlr3::as_prediction
+
+#' @importFrom mlr3 as_prediction_classif
+#' @export
+mlr3::as_prediction_classif
+
+#' @importFrom mlr3 as_prediction_regr
+#' @export
+mlr3::as_prediction_regr
+
+#' @importFrom mlr3 as_resample_result
+#' @export
+mlr3::as_resample_result
+
 #' @importFrom mlr3 as_benchmark_result
 #' @export
 mlr3::as_benchmark_result
+
+#' @importFrom mlr3 set_threads
+#' @export
+mlr3::set_threads
