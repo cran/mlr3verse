@@ -1,3 +1,11 @@
+# mlr3verse 0.2.4
+
+- Updated reexports.
+
+# mlr3verse 0.2.3
+
+- Updated reexports.
+
 # mlr3verse 0.2.2
 
 - Updated reexports.
