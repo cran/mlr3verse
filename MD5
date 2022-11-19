@@ -1,13 +1,13 @@
-8f12211bb091696926a7f2606151160b *DESCRIPTION
-7083f399bdab65aa3ebf88661ad0fc07 *NAMESPACE
-b1b55491b633a6490b463340147574ec *NEWS.md
+b613771e1b7c17c5839a6f611dda0f0d *DESCRIPTION
+c4a4b8f13e652bb4bd022af5cce193c9 *NAMESPACE
+82804e1b5ee38d3da66b18e2844cef1c *NEWS.md
 307455e546355bc128ca0a5812e6a163 *R/mlr3verse_info.R
 8427e3cd3be27944e1a78b034163e687 *R/reexport_mlr3misc.R
 b1684ca0b97676957b074e4a0334bd67 *R/reexports_bbotk.R
 02ee7c0f261c662c03e2d5dd039d94d2 *R/reexports_data.table.R
 d23e4eb1916b43d60fdcd3a4fde69e7a *R/reexports_mlr3cluster.R
 c346133fe08df6dac377186d5bcc21c9 *R/reexports_mlr3filters.R
-1915916e93fd3acd94a4bffe07557f3b *R/reexports_mlr3fselect.R
+bdaef62274fe59463e5824d35f64baf0 *R/reexports_mlr3fselect.R
 1c3c1e39f2b4191521a21ab14814bf76 *R/reexports_mlr3pipelines.R
 fc554c575dda40801c90d188cd7cca93 *R/reexports_mlr3proba.R
 12692960c5527d74b7c6055660301fb1 *R/reexports_mlr3tuning.R
@@ -19,5 +19,5 @@ d893656b6456129fdf7324de25b46992 *R/reexports_mlr3tuningspaces.R
 bd545ef3f56f952c6fb9cab294cd7209 *inst/WORDLIST
 d5065ac3be333d533207f680ff38c126 *man/mlr3verse-package.Rd
 2ab3b46297cc74e8cf9e918d5a9e6b99 *man/mlr3verse_info.Rd
-b493703c5a333186d4fe5af30e7c1e6b *man/reexports.Rd
+b7270a9e77caff1295abd13bce9f39fa *man/reexports.Rd
 c807393c0f3f1b10f48705d8c1057cd9 *tests/mlr3verse.R
