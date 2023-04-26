@@ -20,9 +20,11 @@
 "_PACKAGE"
 
 .onLoad = function(libname, pkgname) {
-  # these are not loaded automatically
+  # populate dictionaries
   requireNamespace("mlr3data", quietly = TRUE)
   requireNamespace("mlr3learners", quietly = TRUE)
+  requireNamespace("mlr3hyperband", quietly = TRUE)
+  requireNamespace("mlr3mbo", quietly = TRUE)
 
   # mlr3extralearners not on CRAN, only load if installed
   pkg = "mlr3extralearners"
@@ -35,5 +37,6 @@
     mlr3data::titanic
     mlr3learners::LearnerClassifLDA
     mlr3hyperband::TunerHyperband
+    mlr3mbo::TunerMbo
   }
 }
