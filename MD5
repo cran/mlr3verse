@@ -1,7 +1,7 @@
-05ad26754737bc3177c6d726ea4088e4 *DESCRIPTION
-71a098f90961e99d6e51c4608d4e51c7 *NAMESPACE
-705b7ff96081e9376317f7c206a76bc3 *NEWS.md
-afb67ef5bf3d13eb24d5dd956a7a059d *R/mlr3verse_info.R
+e932cc54428371b3d736c93eef031ed1 *DESCRIPTION
+cf04eca539f7c2bece7fd77017e0132b *NAMESPACE
+fe7f73001c7e95123caefd80ba31e1cf *NEWS.md
+8f13eb4d7f3aabd3b0e57c134b08b176 *R/mlr3verse_info.R
 dadbc76ac3dd436603db6117d8ea5160 *R/reexport_mlr3misc.R
 b1684ca0b97676957b074e4a0334bd67 *R/reexports_bbotk.R
 02ee7c0f261c662c03e2d5dd039d94d2 *R/reexports_data.table.R
@@ -15,10 +15,10 @@ f39acbb5377855a15cfdbeba985629dd *R/reexports_mlr3tuning.R
 d893656b6456129fdf7324de25b46992 *R/reexports_mlr3tuningspaces.R
 324dcee808901745f6269348cf001e9b *R/reexports_mlr3viz.R
 5224eacf6736575064e7127871a63fc6 *R/reexports_paradox.R
-081754d3a9651112f5d10a02315b2515 *R/zzz.R
-e9362148ea9c35523e3f43624f39141f *README.md
+e3a567077d92db24364d6cd01d1da7ed *R/zzz.R
+6420eee2d7afe9477b4234d0eb3fbd64 *README.md
 bd545ef3f56f952c6fb9cab294cd7209 *inst/WORDLIST
-d9d195f100ed4a9b7e870dae4f0e0cbc *man/mlr3verse-package.Rd
-95b6a6e65dc43b8266a2b1a281215511 *man/mlr3verse_info.Rd
+2e83e9db69e3ce91546771c4a80442df *man/mlr3verse-package.Rd
+6a5d3cbcc777eeb381a62c9bb148abcc *man/mlr3verse_info.Rd
 d650edb59ec9d51659a10f4fe22e9ae4 *man/reexports.Rd
 c807393c0f3f1b10f48705d8c1057cd9 *tests/mlr3verse.R
