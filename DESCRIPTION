@@ -1,6 +1,6 @@
 Package: mlr3verse
 Title: Easily Install and Load the 'mlr3' Package Family
-Version: 0.3.1
+Version: 0.3.2
 Authors@R: c(
     person("Michel", "Lang", , "michellang@gmail.com", role = "aut",
            comment = c(ORCID = "0000-0001-9754-0393")),
@@ -31,12 +31,12 @@ Suggests: miesmuschel, mlr3batchmark, mlr3benchmark, mlr3db,
         mlr3spatial, mlr3spatiotempcv, mlr3summary, mlr3torch, rush
 Additional_repositories: https://mlr-org.r-universe.dev
 Encoding: UTF-8
-RoxygenNote: 7.3.2
+Config/roxygen2/version: 8.0.0.9000
 NeedsCompilation: no
-Packaged: 2025-01-14 15:48:52 UTC; marc
-Author: Michel Lang [aut] (<https://orcid.org/0000-0001-9754-0393>),
-  Patrick Schratz [aut] (<https://orcid.org/0000-0003-0748-6624>),
-  Marc Becker [cre, aut] (<https://orcid.org/0000-0002-8115-0400>)
+Packaged: 2026-06-22 11:40:29 UTC; marc
+Author: Michel Lang [aut] (ORCID: <https://orcid.org/0000-0001-9754-0393>),
+  Patrick Schratz [aut] (ORCID: <https://orcid.org/0000-0003-0748-6624>),
+  Marc Becker [cre, aut] (ORCID: <https://orcid.org/0000-0002-8115-0400>)
 Maintainer: Marc Becker <marcbecker@posteo.de>
 Repository: CRAN
-Date/Publication: 2025-01-14 16:40:09 UTC
+Date/Publication: 2026-06-22 13:20:02 UTC
