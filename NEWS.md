@@ -1,3 +1,9 @@
+# mlr3verse 0.4.0
+
+* feat: add `mlr3forecast` and `mlr3extralearners` as suggested packages.
+* feat: add `mlr3torch` package and reexport its sugar functions, such as `nn()`, `t_opt()`, `t_loss()`, and `t_clbk()`.
+* docs: refine `README`, fix ecosystem image link
+
 # mlr3verse 0.3.2
 
 * Compatibility: Removed reexport of `greplicate()` which was removed from `mlr3pipelines`. Use `ppl("greplicate")` instead.
